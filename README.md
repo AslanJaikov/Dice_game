@@ -1,5 +1,7 @@
 # Dicee 🎲
 
+![Media_230319_180041](https://user-images.githubusercontent.com/128228440/226899681-3f25cc4f-5d04-4bbb-8810-f5f19472ceee.gif)
+
 ## Goal
 
 The objective of this tutorial the introduce to the core programming concepts that will form the foundation of most of the apps. This app will illustrate how to make apps with functionality using setState() inside Stateful Flutter widgets.
@@ -9,7 +11,7 @@ The objective of this tutorial the introduce to the core programming concepts th
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![Media_230319_180041](https://user-images.githubusercontent.com/128228440/226899681-3f25cc4f-5d04-4bbb-8810-f5f19472ceee.gif)
+
 
 ## What was learned
 
